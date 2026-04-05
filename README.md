@@ -1,5 +1,5 @@
 
-# 🚀 Growthify-landing-page
+# 🚀 Growthify – Digital Marketing Agency Landing Page
 
 A modern, responsive, and SEO-friendly landing page built using HTML, CSS, and JavaScript.  
 This project is designed to showcase a clean UI, smooth user experience, and best SEO practices for a digital marketing business.
@@ -13,15 +13,13 @@ This project is designed to showcase a clean UI, smooth user experience, and bes
 
 ## 📌 Features
 
-- ✅ Fully Responsive (Mobile, Tablet, Desktop)
-- ✅ SEO-Friendly Structure (Meta tags, headings, alt attributes)
-- ✅ Modern UI/UX Design
-- ✅ Sticky Navigation Bar
-- ✅ Hero Section with Call-To-Action
-- ✅ Services Section with Icons
-- ✅ Testimonials Section
-- ✅ Contact Form with Validation
-- ✅ Smooth Scrolling & Basic Animations
+- **Responsive Design** — Works on both desktop and mobile screens  
+- **Clean UI/UX** — Modern layout for marketing and agency websites  
+- **Service Sections** — Highlight digital marketing offerings  
+- **Testimonials** — Customer testimonial carousel  
+- **Team Section** — Introduce team members  
+- **Newsletter Signup** — Collect email subscriptions  
+- **Navigation & Routing** — Links to Pricing, Blog, and About Us pages
 
 ---
 
